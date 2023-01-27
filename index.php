@@ -27,7 +27,7 @@
         // přihlašovací údaje do databáze
         $servername = "localhost"; 
         $username="root";
-        $password="databazka";
+        $password="[password]";
         $database="domeny_db";
         $table="domeny_tab";
         
