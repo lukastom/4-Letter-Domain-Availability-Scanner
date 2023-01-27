@@ -16,7 +16,7 @@ and open the template in the editor.
             // přihlašovací údaje do databáze
             $servername = "localhost"; 
             $username="root";
-            $password="databazka";
+            $password="[password]";
             $database="domeny_db";
             
             // název tabulky, která se vytvoří - OKDKOMENTUJ PŘI POUŽITÍ
